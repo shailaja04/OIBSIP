@@ -324,7 +324,7 @@ Invalid choice. Try again.
 ###  Cancel a ticket
 ###  View all booked tickets
 And **login is required** (username: admin, password: admin@123)
-## ** Reservation Class**
+## **Reservation Class**
 This class stores **one passenger’s booking details**:
 * name
 * age
@@ -351,7 +351,7 @@ After login, the program keeps showing:
 4. Exit
 The user chooses what to do.
 # **What Each Function Does**
-## ** bookReservation()**
+## **bookReservation()**
 Asks the user for:
 * name
 * age
@@ -363,7 +363,7 @@ Then it **creates a new PNR like:**
 PNR1, PNR2, PNR3 ...
 Then adds it to the list of reservations.
  Prints success message.
-## ** cancelReservation()**
+## **cancelReservation()**
 * Asks for PNR
 * Searches in the list
 * If found → shows details → asks:
