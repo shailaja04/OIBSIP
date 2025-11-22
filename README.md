@@ -25,9 +25,8 @@ java ATM
 - user3 / 19876  
 - user4 / 16543  
 - user5 / 98345  
-**OUTPUT: **
+**OUTPUT:**
 
-  
 WELCOME TO ATM SERVICE
 Enter USER ID:user1
 Enter PIN:12345
