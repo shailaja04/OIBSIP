@@ -343,7 +343,7 @@ Only if both match:
 admin
 admin@123
 the user can continue.
-## ** Menu (Loop)**
+## **Menu(Loop)**
 After login, the program keeps showing:
 1. Book Reservation
 2. Cancel Reservation
@@ -435,5 +435,7 @@ Online Reservation System
 4. Exit
 Enter your choice: 4
 Exiting system. Goodbye!
-
+## **Author**
+Name: Ashwini Shailaja
+github link: 
 
